@@ -10,7 +10,7 @@ end
 local SilentAimSettings = {
     Enabled = false,
     
-    ClassName = "Universal Silent Aim - Averiias, Stefanuk12, xaxa",
+    ClassName = "Seplit Hub - S4ntinal",
     ToggleKey = "RightAlt",
     
     TeamCheck = false,
@@ -29,7 +29,7 @@ local SilentAimSettings = {
 
 -- variables
 getgenv().SilentAimSettings = Settings
-local MainFileName = "UniversalSilentAim"
+local MainFileName = "Seplit Hub"
 local SelectedFile, FileToSave = "", ""
 
 local Camera = workspace.CurrentCamera
